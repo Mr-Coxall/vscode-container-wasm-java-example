@@ -1,6 +1,6 @@
 {
-    "container.imageLocation": "https://ktock.github.io/image-example/amd64-gcc-debian-wasi",
-    "container.imageChunks": 9,
+    "container.imageLocation": "https://github.com/Mr-Coxall/vscode-container-wasm-java-example/releases/download/V0.0.1/java.wasm",
+    "container.imageChunks": 0,
     "editor.autoClosingQuotes": "always",
     "editor.bracketPairColorization.enabled": true,
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
