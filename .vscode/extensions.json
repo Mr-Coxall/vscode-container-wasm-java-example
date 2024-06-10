@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ktock.container-wasm",
+        "sohamkamani.code-eol",
+        "hediet.vscode-drawio",
+        "oderwat.indent-rainbow",
+        "PKief.material-icon-theme"
+    ]
+}
